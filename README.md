@@ -1,20 +1,20 @@
 # Assignment
 
 Setup
-Within a new directory, create and activate a virtualenv.
+# Create a new directory, create and activate a virtualenv.
 Install Django.
 Create your project
 
 
-1. Install the requirement.txt on your computer using pip
+#1 Install the requirement.txt on your computer using pip
 pip install -r requirements.txt
 
 
-2. After install all the requirement.txt extract the project and open the project, type this on your terminal
+#2. After install all the requirement.txt extract the project and open the project, type this on your terminal
 python manage.py makemigrations
 python manage.py migrate
 
-3. Run the server using
+#3. Run the server using
 python manage.py runserver
 
-Your django it's live now open your browser and type 127.0.0.1:8000
+type 127.0.0.1:8000
