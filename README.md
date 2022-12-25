@@ -6,15 +6,15 @@ Install Django.
 Create your project
 
 
-##1 Install the requirement.txt on your computer using pip
+## Install the requirement.txt on your computer using pip
 pip install -r requirements.txt
 
 
-##2. After install all the requirement.txt extract the project and open the project, type this on your terminal
+## After install all the requirement.txt extract the project and open the project, type this on your terminal
 python manage.py makemigrations
 python manage.py migrate
 
-##3. Run the server using
+## Run the server using
 python manage.py runserver
 
-###type 127.0.0.1:8000
+type 127.0.0.1:8000
